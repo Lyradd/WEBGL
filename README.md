@@ -24,4 +24,6 @@ Untuk shuttlecock, saya menggunakan objek berikut:
 
 1. **Plane**: Dimodifikasi (dengan extrusi dan lainnya) untuk menyerupai bentuk bulu. Plane ini kemudian diduplikasi agar membentuk bulu kok yang lengkap.
 2. **Torus**: Digunakan sebagai kerangka kok untuk menambahkan detail.
+3. **UV Sphere**: Digunakan untuk membentuk pentol bola shuttlecock, menambahkan detail pada bagian kepala kok agar lebih realistis.
+
 
